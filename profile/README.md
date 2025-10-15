@@ -4,6 +4,8 @@ The **Everwind Mod Menu** is a complete in-game customization hub that empowers 
 
 Whether you’re crafting cinematic replays, optimizing your combat flow, or testing elemental loadouts, this mod menu offers a flexible environment for experimentation without altering save files or breaking stability.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://everwind-mod-menu.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
